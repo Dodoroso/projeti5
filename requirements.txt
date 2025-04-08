@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+aiomysql
+pydantic[email]
+httpx
